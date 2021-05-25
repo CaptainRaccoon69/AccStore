@@ -1,0 +1,16 @@
+#admin_nav {
+  width: 100%;
+}
+
+#admin_nav li:hover {
+  background-color: #add8e6;
+}
+
+a {
+  text-decoration: none;
+}
+
+.th-select:hover{
+    background-color: #DCDCDC;
+    cursor: pointer;
+}
